@@ -18,6 +18,8 @@ and even unecessary for certain operations.
 
 ### Usage
 
+**Note: I modified the key to `ij`, `aj`, `iJ`, `aJ` for personal use**
+
 This plugin adds `ic`, `ac`, `iC`, and `aC` as text-objects.  Use them in
 commands like `vic`, `cic`, and `daC`.
 
